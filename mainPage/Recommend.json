@@ -1,12 +1,10 @@
 {
     "AppStatus":
-    [
-        {
-            "ErrorCode":"0",
-            "Success":"true",
-            "Msg":"收到广告信息"
-        }
-    ],
+    {
+        "ErrorCode":"0",
+        "Success":"true",
+        "Msg":"收到广告信息"
+    },
     "RecommendDate":
     [
         {
