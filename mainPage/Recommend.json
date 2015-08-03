@@ -37,9 +37,13 @@
     "Advertisement":
     [
         {
-            "ad1":"http://evanlaw3.github.io/blog/mainPage/image/ad1.png",
-            "ad2":"http://evanlaw3.github.io/blog/mainPage/image/ad2.png",
-            "ad3":"http://evanlaw3.github.io/blog/mainPage/image/ad3.png"
+            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad1.png"
+        },
+        {
+            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad2.png"
+        },
+        {
+            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad3.png"
         }
     ]
 }
