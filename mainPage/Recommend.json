@@ -9,21 +9,30 @@
     [
         {
             "name": "分类1",
-            "image1": "http://evanlaw3.github.io/blog/image/good1_img.png",
-            "image2": "http://evanlaw3.github.io/blog/image/good2_img.png",
-            "image3": "http://evanlaw3.github.io/blog/image/good3_img.png"
+            "image1": "http://evanlaw3.github.io/blog/mainPage/image/good1_img.png",
+            "image2": "http://evanlaw3.github.io/blog/mainPage/image/good2_img.png",
+            "image3": "http://evanlaw3.github.io/blog/mainPage/image/good3_img.png"
         },
         {
             "name": "分类2",
-            "image1": "http://evanlaw3.github.io/blog/image/good1_img.png",
-            "image2": "http://evanlaw3.github.io/blog/image/good2_img.png",
-            "image3": "http://evanlaw3.github.io/blog/image/good3_img.png"
+            "image1": "http://evanlaw3.github.io/blog/mainPage/image/good1_img.png",
+            "image2": "http://evanlaw3.github.io/blog/mainPage/image/good2_img.png",
+            "image3": "http://evanlaw3.github.io/blog/mainPage/image/good3_img.png"
         },
         {
             "name": "分类3",
-            "image1": "http://evanlaw3.github.io/blog/image/good1_img.png",
-            "image2": "http://evanlaw3.github.io/blog/image/good2_img.png",
-            "image3": "http://evanlaw3.github.io/blog/image/good3_img.png"
+            "image1": "http://evanlaw3.github.io/blog/mainPage/image/good1_img.png",
+            "image2": "http://evanlaw3.github.io/blog/mainPage/image/good2_img.png",
+            "image3": "http://evanlaw3.github.io/blog/mainPage/image/good3_img.png"
+        }
+    ],
+    "Recommend":
+    [
+        {
+            "recommend1": "http://evanlaw3.github.io/blog/mainPage/image/recommend1_img.png",
+            "recommend2": "http://evanlaw3.github.io/blog/mainPage/image/recommend2_img.png",
+            "recommend3": "http://evanlaw3.github.io/blog/mainPage/image/recommend3_img.png"
         }
     ]
+
 }
