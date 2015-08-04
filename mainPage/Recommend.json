@@ -40,16 +40,39 @@
             "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad1.png"
         },
         {
-            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad2.png"
+            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad6.png"
         },
         {
-            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad3.png"
+            "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad7.png"
         },
         {
             "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad4.png"
         },
         {
             "ad":"http://evanlaw3.github.io/blog/mainPage/image/ad5.png"
+        }
+    ],
+    "Notification"
+    [
+        {
+            "title":"文章：立冬饮食养生攻略",
+            "detail":"俗话说：“药补不如食补”。食补在冬季调养中尤为重要。专家表示，冬季气温过低，人体为了保持一定的热量，就必须",
+            "date":"2015-07-22 10:30"
+        },
+        {
+            "title":"文章：立冬饮食养生攻略",
+            "detail":"俗话说：“药补不如食补”。食补在冬季调养中尤为重要。专家表示，冬季气温过低，人体为了保持一定的热量，就必须",
+            "date":"2015-07-22 10:30"
+        },
+        {
+            "title":"文章：立冬饮食养生攻略",
+            "detail":"俗话说：“药补不如食补”。食补在冬季调养中尤为重要。专家表示，冬季气温过低，人体为了保持一定的热量，就必须",
+            "date":"2015-07-22 10:30"
+        },
+        {
+            "title":"文章：立冬饮食养生攻略",
+            "detail":"俗话说：“药补不如食补”。食补在冬季调养中尤为重要。专家表示，冬季气温过低，人体为了保持一定的热量，就必须",
+            "date":"2015-07-22 10:30"
         }
     ]
 }
